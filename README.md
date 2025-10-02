@@ -17,7 +17,7 @@ This project implements a **Retrieval-Augmented Generation (RAG) ChatBot** using
 
 ## 📹 Project Demo
 
-[![Watch Demo on YouTube](https://img.youtube.com/vi/d3EUEMFl8vc/0.jpg)](https://youtu.be/d3EUEMFl8vc)
+[![Watch Demo on YouTube](https://img.youtube.com/vi/ajhCH811Nng/0.jpg)](https://youtu.be/ajhCH811Nng)
 
 ---
 
